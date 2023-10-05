@@ -26,6 +26,7 @@ public class Main{
                 Date d2  = (Date)in.readObject();
                 Integer n3 = (Integer)in.readObject();
                 System.out.println(d1 + " "+ " "+ d2 );
+                //  test
 
             }
         }
