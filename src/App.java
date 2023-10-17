@@ -11,7 +11,8 @@ public class App {
         try (DataInputStream inputStream = new DataInputStream(new FileInputStream("out.dat"))) {
             System.out.println(inputStream.readDouble());
         //justing adding 
-        // hello
+        // pppppppppppppppppppppppppppppptllw
+        
         }
     }
 }
